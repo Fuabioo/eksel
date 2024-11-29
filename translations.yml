@@ -1,0 +1,8 @@
+mode:
+  navigation:
+    sheet: 📄 SHEET NAV
+    table: 📊 TABLE NAV
+context:
+  filename: 📒 %s
+  sheetname: 📄 %s
+  paginator: "%d of %d"
